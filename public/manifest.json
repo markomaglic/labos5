@@ -1,0 +1,26 @@
+{
+    "name": "Progressive Web App example",
+    "short_name": "pwa-labos5",
+    "description": "Progressive Web App example web labos5",
+    "icons": [
+      {
+        "src": "pwa.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#764ABC",
+    "background_color": "#764ABC",
+    "orientation": "portrait-primary",
+    "lang": "en-US",
+    "prefer_related_applications": true,
+    "related_applications": [
+      {
+        "platform": "webapp",
+        "url": "https://edgar.fer.hr",
+        "id": "hr.fer.edgar"
+      }
+    ]
+}
